@@ -26,7 +26,7 @@ Directory                   | Description
 
 This development repository can be used in a local directory and [mapped as software pack](https://github.com/Open-CMSIS-Pack/cmsis-toolbox/blob/main/docs/build-tools.md#install-a-repository) using for example `cpackget` with:
 
-    cpackget add <path>/NXP.FRDM-MCXN947_BSP
+    cpackget add <path>/NXP.FRDM-MCXN947_BSP.pdsc
 
 ## Generate software pack
 
