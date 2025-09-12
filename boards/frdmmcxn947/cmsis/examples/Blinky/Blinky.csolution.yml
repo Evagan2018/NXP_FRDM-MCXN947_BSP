@@ -31,10 +31,6 @@ solution:
   target-types:
     - type: FRDM-MCXN947
       board: NXP::FRDM-MCXN947
-      target-set:
-        - set:
-          debugger:
-            name: CMSIS-DAP
 
   # List of different build configurations.
   build-types:
